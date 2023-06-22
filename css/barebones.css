@@ -1,0 +1,66 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2.5%;
+    margin-bottom: 10%;
+}
+
+.content {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.loginHeader {
+    background:rgb(230, 230, 230);
+    font-style: italic;
+    text-align: right;
+    padding: 5px;
+}
+
+.loginPrompt {
+    background:rgb(243, 243, 243);
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 8px;
+}
+
+button.loginPrompt {
+    padding: 3px;
+    margin: 3px;
+}
+
+.message {
+    text-align: center;
+}
+
+.blogEntry {
+    background: rgb(243, 243, 243);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.blogForm {
+    margin: auto;
+    width: 100%;
+    padding: 0px;
+    text-align: center;
+}
+
+textarea {
+    margin: auto;
+    width: 66%;
+}
+
+.nav {
+    margin: auto;
+    width: 66%;
+    padding: 5px;
+}
+
+button.nav {
+    margin: auto;
+}
